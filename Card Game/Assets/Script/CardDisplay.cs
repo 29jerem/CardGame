@@ -7,6 +7,12 @@ public class CardDisplay : MonoBehaviour
     public int idCardDataBase;
     public bool isBack;
 
+    void Awake()
+    {
+        idCardDataBase = 9;
+        isBack = false;
+    }
+
     // Start is called before the first frame update
     void Start()
     {
