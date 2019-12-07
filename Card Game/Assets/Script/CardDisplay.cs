@@ -9,7 +9,7 @@ public class CardDisplay : MonoBehaviour
 
     void Awake()
     {
-        idCardDataBase = 9;
+        idCardDataBase = 0;
         isBack = false;
     }
 
