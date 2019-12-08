@@ -6,7 +6,7 @@ using UnityEngine;
 /**
  *  Frame
  */
- public enum Frame { Common, Rare, Epic, Lengendary}; 
+ public enum Frame { Common, Rare, Epic, Legendary}; 
 
 /**
  * Card : describe a card
